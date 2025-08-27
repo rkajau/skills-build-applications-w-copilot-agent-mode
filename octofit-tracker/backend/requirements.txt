@@ -1,0 +1,7 @@
+# OctoFit Tracker backend requirements
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+passlib
+python-jose
